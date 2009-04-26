@@ -18,6 +18,7 @@
 </ol>
 <p>So here is the Link to Flickr to start it: <a href="http://flickr.com/services/auth/?api_key=3d938a92a71b43d6f04841d48bedf698&perms=read&api_sig=1f72bff54d65b59e302c7ed8fc2b409d">http://flickr.com/services/auth/?api_key=...&perms=read&api_sig=...</a></p>
 <hr />
-<p><a href="mailto:Bernd.Eckenfels@gmail.com">Bernd.Eckenfels</a></p>
+  <p><a href="mailto:Bernd.Eckenfels@gmail.com">Bernd.Eckenfels</a></p>
+  <p>You find the GPL code for this WAR on <a href="http://javawebtest.googlecode.com/">javawebtest.googlecode.com</a></p>
 </body>
 </html>
